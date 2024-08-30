@@ -1,4 +1,4 @@
-# Car License Plate Detection
+# Object Detection System
 
 This project focuses on detecting car license plates from images using deep learning. The model is trained on a dataset of annotated images to accurately identify and localize license plates in various conditions and environments.
 
